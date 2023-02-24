@@ -8,6 +8,8 @@ public class Main {
 
 
         //abstract class yerine mypet interface de olabilirdi o zaman extends yerine implements yazardık
+        //ancak interface constructor içermez bu yüzden abstract classta constructor içinde başlangıç değeri
+        //istediğimiz için interface tercih etmedik
 
     }
 }
