@@ -7,5 +7,7 @@ public class Main {
         myCat.voice();
 
 
+        //abstract class yerine mypet interface de olabilirdi o zaman extends yerine implements yazardık
+
     }
 }
